@@ -1,20 +1,24 @@
 {
-  "id": "drill_mobile",
-  "name": "Drill Mobile",
-  "categoryId": "engineering",
-  "description": "Multi-lateral tertiary process improvement",
-  "investment_24m": "787",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "38",
-  "status_color": "#FF0000",
-  "type": "InHouseDev",
-  "support_cost": "266",
-  "deployment_date": "30/8/12",
-  "end_of_maintenance": "30/1/18",
-  "department": "Training",
-  "status": "Decomissioned",
-  "end_of_life": "12/4/20",
-  "months_to_renew_support": "24",
-  "sme_email": "Catherine.Carek@memento.net.au",
-  "investment_number": "483"
+  "applications": [
+    {
+      "id": "drill_mobile",
+      "name": "Drill Mobile",
+      "categoryId": "engineering",
+      "description": "Multi-lateral tertiary process improvement",
+      "investment_24m": "787",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "38",
+      "status_color": "#FF0000",
+      "type": "InHouseDev",
+      "support_cost": "266",
+      "deployment_date": "30/8/12",
+      "end_of_maintenance": "30/1/18",
+      "department": "Training",
+      "status": "Decomissioned",
+      "end_of_life": "12/4/20",
+      "months_to_renew_support": "24",
+      "sme_email": "Catherine.Carek@memento.net.au",
+      "investment_number": "483"
+    }
+  ]
 }
